@@ -2,7 +2,7 @@
 ## Eland Woo
 
 - 🐧 How to know me：<a href="http://www.neu.edu.cn/" target="_blank">东北大学</a> | <a href="" target="_blank">计算机系</a>
-- 🔭 I’m currently working on：<a href="https://github.com/ElandWoo" target="_blank">Personal pages ElandWoo</a>
+- 🔭 I’m currently working on：<a href="https:/elandwoo.github.io" target="_blank">Personal pages ElandWoo</a>
 - 🌱 I’m currently learning: <a href="https://blog.csdn.net/weixin_52211329?type=blog" target="_blank">BLOG CSDN</a>
 - 📫 How to reach me：<a href="mailto://gongzi_1076@163.com">e-mail gongzi_1076@163.com</a>
 <!--
