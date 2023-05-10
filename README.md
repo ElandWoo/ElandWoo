@@ -3,6 +3,14 @@
 <!--
 **ElandWoo/ElandWoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+## KOKOMI 🐟
+
+- 🐧 How to know me：<a href="http://www.neu.edu.cn/" target="_blank">东北大学</a> | <a href="" target="_blank">计算机系</a>
+- 🔭 I’m currently working on：<a href="https://github.com/ElandWoo" target="_blank">Personal pages ElandWoo</a>
+- 🌱 I’m currently learning: <a href="https://blog.csdn.net/weixin_52211329?type=blog" target="_blank">BLOG CSDN</a>
+- 📫 How to reach me：<a href="mailto://gongzi_1076@163.com">e-mail gongzi_1076@163.com</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
